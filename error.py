@@ -107,3 +107,26 @@
 
 
 
+# class student:
+#     def __init__(self,name,marks):
+#         self.n=name
+#         self.m=marks
+        
+ 
+#     def calculate_average(self):
+#         total=sum(self.m.values())
+#         average=total/len(self.m)
+#         return average
+
+    
+#     def display_grade(self):
+#         average=self.calculate_average
+#         if average>=90:
+#           grade="A"
+#         elif average>75:
+#           grade="B"
+#         elif average>=50:
+#            grade="C"
+#         else:
+#            grade="Fail"  
+#            print(f"{self.n}average:{average:.f}{self.m}")
